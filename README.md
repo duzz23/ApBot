@@ -1,6 +1,6 @@
 # Local Development Installation
 
-    git clone git@bitbucket.org:consumerchoicemvp/ida-backend.git
+    git clone https://github.com/duzz23/ApBot.git
 
 ## Init virtualenv, optional
 
